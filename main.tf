@@ -6,6 +6,7 @@ provider "aws" {
   tags = {
     Name = "test11"
     vpctest = "123"
+    d
   }
 }
     
